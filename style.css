@@ -1,0 +1,129 @@
+input{
+    width: 20em;
+    height: 2em;
+}
+
+body{
+    font-family: Verdana;
+}
+
+h1 {
+    color:darkblue;
+}
+
+.findradio {
+    width: 2em;
+    height: 1em;
+}
+
+
+#aboutme-text {
+    color: #f1f7ff;
+    text-align: center;
+    padding-top: 5em;
+}
+#cv-text {
+    color: #000c1d;
+    text-align: center;
+    padding-top: 2em;
+}
+
+.carousel-inner{
+    background-color: #000c1d;
+}
+
+#cv-text-2 {
+    color: #000c1d;
+    text-align: center;
+    padding-top: 2em;
+}
+
+#header-container-index{
+    background-color: #7a5686;
+    color: white;
+}
+
+#header-container-cv{
+    background-color: #3f6999;
+    color: white;
+}
+
+#header-container-hobbies{
+    background-color: #bb5b3e;
+    color: white;
+}
+#header-container-contact{
+    background-color: #2c6c7c;
+    color: white;
+}
+#indexbody{
+    background-color: #fff7f1;
+}
+
+#aboutme-column{
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#contacts-container {
+    color:#fff7f1;
+}
+
+#fb-link{
+    color: #fff7f1;
+}
+
+#gh-link{
+    color: #fff7f1;
+}
+
+#profilepicture-column{
+    
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.gradient-custom {
+    background: linear-gradient(to right, #d47f31, #af557c)
+  }
+
+.gradient-custom-cv {
+    background: linear-gradient(to right, #86dfff, #a3ffc7)
+}
+.gradient-custom-hobbies {
+    background: linear-gradient(to right, #ffff89, #f7906e)
+}
+.gradient-custom-hobbies-reversed {
+    background: linear-gradient(to left, #ffff89, #f7906e)
+}
+
+.gradient-custom-contact {
+    background: linear-gradient(to right, #d4ff9b, #2d9395)
+}
+.gradient-custom-contact-reversed {
+    background: linear-gradient(to left, #d4ff9b, #2d9395)
+}
+#submitbutton {
+    width: 10em;
+    height: 2em;
+}
+
+#message {
+    height: 4em;
+}
+
+
+#cvbody {
+    background-color: rgb(95, 166, 212);
+}
+
+#hobbiesbody {
+    background-color: papayawhip;
+}
+
+#contactbody {
+    background-color: rgb(220, 255, 237);
+}
